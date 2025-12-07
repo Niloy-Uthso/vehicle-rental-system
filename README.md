@@ -45,23 +45,23 @@ Vehicle Rental API is a RESTful backend service that allows users to browse vehi
 
 ## Setup & Installation
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/yourusername/vehicle-rental-api.git
 cd vehicle-rental-api
 
-# 2. Install dependencies
+ 2. Install dependencies
 npm install
 
-# 3. Create an .env file in the root directory
-# Add the following variables:
-# PORT=5000
-# DATABASE_URL=your_mongodb_connection_string
-# JWT_SECRET=your_jwt_secret
+ 3. Create an .env file in the root directory
+- Add the following variables:
+- PORT=5000
+- DATABASE_URL=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret
 
-# 4. Start the development server
+- 4. Start the development server
 npm run dev
 
-# 5. Build for production
+- 5. Build for production
 npm run build
 
  
